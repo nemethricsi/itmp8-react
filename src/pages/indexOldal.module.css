@@ -1,0 +1,32 @@
+.kep {
+  background-color: #3cb878;
+  margin: 20px 20px 0 0;
+  padding: 10px 0;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+}
+
+.kep img {
+  width: 200px;
+}
+
+.vers {
+  margin: 10px 200px 10px 200px;
+  font-size: 0.8em;
+}
+
+.verscim {
+  text-align: center;
+}
+
+.hivatkozas a {
+  color: #3cb878;
+  text-decoration: underline;
+}
+
+.jobbkeret {
+  /*border-right: 1px solid black;*/
+  text-align: center;
+}
